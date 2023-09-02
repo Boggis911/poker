@@ -1,4 +1,4 @@
-# poker
+# poker game in C++
 A poker game that allows the user to compete against bots. Created using C++ 
 
 It was created as the final university C++ project. The program mimics the real-life poker game setting and offers advanced features that are unavailable in a live poker game.
